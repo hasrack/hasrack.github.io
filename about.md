@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a fun loving guy. Always try to keep smiling and try to help my friend and make them smile. A simple pure smile is priceless to me. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[j@ffff.com](mailto:email@domain.com)
