@@ -4,10 +4,6 @@ title: Living With Chrome OS
 published: true
 ---
 
-# **Living with Chrome OS**
-
-
-----------
 When Google first revealed Chrome OS, an operating system based on Linux kernel and will utilize cloud for user data and applications back in  2009 most of the tech industry was intrigued  by this bold move from Google. You need internet in the first place  to log in to the OS and then use it. It was crazy for them.
 
 I am  enthusiastic about new OS/technology or device and like to tinker with them. Chrome OS caught my eye when it was first announced. I  hesitated because of the always online requirement . But gradually chrome OS gained some offline capabilities through packaged apps and offline support for Google Drive. And Now I am here  writing my experiences with this OS.
