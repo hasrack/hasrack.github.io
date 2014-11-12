@@ -1,10 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: ""
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Hi, this is Hasrack. My real name is Jahidul Islam. I am 25 years of age and mainly spend most of my time in our family buisness. I also have interest mailnly in IT related subject. I like to tinker with new device and software or OS. I love open-source and tux. I love chickens and pizza. MY hobby is reading books. My favorite genre is science fiction and am a very big fan of Issac Asimov.Today is my birthday and I am starting a blog. Let's see how far it can go. Wish me luck and chrees to you. :) 
