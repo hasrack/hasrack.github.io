@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: Living With Chrome OS
+published: true
 ---
 
 # **Living with Chrome OS**
