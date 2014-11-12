@@ -44,7 +44,6 @@ I can't hear the fan(at least where I use it) and more than adequate for chrome 
 # _Running for the first time_
 
 
-----------
 
 You may assume that I just unbox  the device, plug it in and voila! Nope I had to wait a for day to even turn this device on for two reasons
 
@@ -65,7 +64,6 @@ After the log in my account was syncing as usual. It took another 30-45 minutes 
 # _Inside the Chrome OS Desktop_
 
 
-----------
 First of all here is a photo of the desktop.
 
 ![enter image description here](https://lh4.googleusercontent.com/PMbyixirW81qJyehixMy1Qu4UVYRtVf-GvVk9YlQtI3vwLy-rhHm5Ux5Y_qNky5i0tu3-A=w1327-h513 "desktop.jpg")
@@ -75,8 +73,6 @@ It is clean and without any fuzz. I personally like it.  It looks similar to win
 
 # _Going Offline_
 
-
-------------
 After the initial setup and sync I tried to see if I could log in offline. Ha ha! Yes, It does work. You can get various offline app at chrome webstore to accomplish your task. Let's see what can you in offline by default in chrome OS.
 
  - Play audio, video from local or external storage 
