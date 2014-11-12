@@ -21,7 +21,7 @@ You can't load or install Chrome OS on your own device. You need to get Google c
 There are quite a few models of  chromebooks you can find in [amazon](http://goo.gl/IlIurZ). I  got the white version [HP chromebox](http://goo.gl/gvBvu5). Here are the specs.
 
 
-| Specifications        |            | 
+|Specifications  |        | 
 | -------------  |:-------------:
 | Processor      | Intel Celeron 2955u 1.4 Ghz | 
 | RAM            | 2 GB DDR3L 1.35v (user up-gradable) |   
@@ -51,7 +51,7 @@ You may assume that I just unbox  the device, plug it in and voila! Nope I had t
 
 Anyway, I managed all those and boot up the device following day. It greeted me with a chrome logo and after setting up the internet it began downloading the latest updates. 
  
- ![setup step](=s500 "first-setup.jpg")
+ ![setup step](http://i.imgur.com/tahel6m.jpg=s500 "first-setup.jpg")
 
 It took about an hour ( My net connection is slow) to finish and after a reboot the login screen appeared. The boot time is crazy fast. It takes more time to write my password :P. 
 
