@@ -8,7 +8,7 @@ When Google first revealed Chrome OS, an operating system based on Linux kernel 
 I am  enthusiastic about new OS/technology or device and like to tinker with them. Chrome OS caught my eye when it was first announced. I  hesitated because of the always online requirement . But gradually chrome OS gained some offline capabilities through packaged apps and offline support for Google Drive. And Now I am here  writing my experiences with this OS.
 
 
-# _Getting Chrome OS_
+### _Getting Chrome OS_
 
 
 
@@ -40,7 +40,7 @@ For more pictures go [here](https://drive.google.com/folderview?id=0B57L4KYWQjw_
 
 I can't hear the fan(at least where I use it) and more than adequate for chrome OS. Only problem is that it comes with 2 GB RAM. This post is more about chrome OS. I will write about it in another post. 
 
-# _Running for the first time_
+### _Running for the first time_
 
 
 
@@ -60,7 +60,7 @@ It took about an hour ( My net connection is slow) to finish and after a reboot 
 
 After the log in my account was syncing as usual. It took another 30-45 minutes to sync. 
 
-# _Inside the Chrome OS Desktop_
+### _Inside the Chrome OS Desktop_
 
 
 First of all here is a photo of the desktop.
