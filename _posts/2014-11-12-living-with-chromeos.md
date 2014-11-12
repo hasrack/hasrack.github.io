@@ -51,12 +51,12 @@ You may assume that I just unbox  the device, plug it in and voila! Nope I had t
 
 Anyway, I managed all those and boot up the device following day. It greeted me with a chrome logo and after setting up the internet it began downloading the latest updates. 
  
- ![setup step](https://lh6.googleusercontent.com/u-As0LkGdJhVsHhPzSI44psrPmxngvnyGPf-IUALG6uwm7oW2pDDiOWj4-B2JSOleCcvfw=w1327-h513=s500 "first-setup.jpg")
+ ![setup step](=s500 "first-setup.jpg")
 
 It took about an hour ( My net connection is slow) to finish and after a reboot the login screen appeared. The boot time is crazy fast. It takes more time to write my password :P. 
 
 
-![enter image description here](https://lh3.googleusercontent.com/C6BzgANPkigtqkDr4LetNWtKR4eZrfjm-b8CjCZ_AJJgvm6K7-I0D4x6ahR8NaPEHdktdQnfCH0=w1342-h513 "sign in screen.jpg")
+![enter image description here](http://i.imgur.com/4EM6ZW9.jpg "sign in screen.jpg")
 
 After the log in my account was syncing as usual. It took another 30-45 minutes to sync. 
 
@@ -65,7 +65,7 @@ After the log in my account was syncing as usual. It took another 30-45 minutes 
 
 First of all here is a photo of the desktop.
 
-![enter image description here](https://lh6.googleusercontent.com/EOGRT0gMxn05qPByl5Vwh7xdKQMPRoonP8k27HyPhIxT4ZB6XERunpUPWR1wmuSyWIRp3msPnBk=w1342-h513 "desktop.jpg")
+![enter image description here](http://i.imgur.com/mAbDs5B.jpg=s500 "desktop.jpg")
 
 It is clean and without any fuzz. I personally like it.  It looks similar to windows and KDE 4 desktop but without all bells and whistles of the latter two. There is a launcher, taskbar , notofication center , time and user's profile picture. When you click on the picture you will get some options like settings, network, language etc. Chrome OS uses "Ash" window manager. It's very simple and  doesn't have many options.  There are also expose and window snapping feature. 
 
@@ -94,13 +94,13 @@ Yes you can run android apps on chrome OS. More onto later.
 
 I was thrilled when  Google announced support for android apps in chrome OS back at i/o 2014. Another reason to try out chrome OS for me. I tried first with officials one. When you install your android app for chrome OS, it will download android runtime for chrome  behind the scene.  I installed podcast addict. It is a podcast manager available for android. It installed in a tablet mode.
 
-![Android  app on chrome.jpg](https://lh6.googleusercontent.com/omrBTh-DYCwNocKC8tUKup6r1trExVBz8DVdk9h8Y5pF_d4uQUBc-i6ZtK-IehD7gr1AyQ=w1327-h513=s500 "Android  app on chrome.jpg")
+![Android  app on chrome.jpg](http://i.imgur.com/pNICa4i.jpg=s500 "Android  app on chrome.jpg")
 
 As you can see the maximize button is missing on the window manager and looks little blurry . So it's not a very  optimum experience. There was another problem. I can't access any downloaded episode outside the app.
 
 There are only 11 officially supported apps such as vine, evernote, podcast adict, Dulingo etc. But you can run quite a few android apps in chrome OS by turning apk into chrome extension. The result is mixed bag. I successfully installed and use Ranchrush 2 lite and World of Goo (Demo) games from Play Store. 
 
-![Running unofficial android app](https://lh6.googleusercontent.com/_AnJwODs9Ahb40cZzO0gzNP11wQ-7PmrU6Q7wLtvUgvbP1m1f0YV0UPoZYoCI1oHYdWZeg=w1327-h513=s500 "ranchrush 2.jpg")
+![Running unofficial android app](http://i.imgur.com/SYJjng4.jpg=s500 "ranchrush 2.jpg")
 
 Skype works with text chat but crashed with audio. Adobe reader and WPS Office crashed while opening PDF and documents.  There is a [list](https://docs.google.com/spreadsheets/d/1iIbxaftAu_ho5rv9fUlXSLTzwU6MbKOldsWXyrYiyo8/edit#gid=0) of android apps that can be run on chrome OS. It's unofficial so try it on your own risk.
 
