@@ -80,11 +80,11 @@ After the initial setup and sync I tried to see if I could log in offline. Ha ha
 	 - [Polarr](http://goo.gl/SHnDOU) and [Pixlr Touch-up](http://goo.gl/tysFCd)  
  - Offline support for Google Drive. So you can edit your documents while offline
  -  Text editing/ light programming/markdown editor 
-	- [Caret](http://goo.gl/OyMKUZ), [Subtext](http://goo.gl/cCNYrH), [Zen](http://goo.gl/LhXabj)
+	- [Caret](http://goo.gl/OyMKUZ), [Subtext](http://goo.gl/cCNYrH), [Zed](http://goo.gl/LhXabj)
  - Writing blog post like myself 
  - Play games
     - [Tank Rider](http://goo.gl/jFE8kv), [Save the Day](http://goo.gl/OrFmwX), [Cracking Sands Racing](http://goo.gl/tYXRCq), [Bastion](http://goo.gl/6ZEiFI) 
- - Drawing diagrams,flow chart or mind mapping  
+ - Drawing diagrams,flow chart or mind mapping. [Gliffy](https://chrome.google.com/webstore/detail/gliffy-diagrams/bhmicilclplefnflapjmnngmkkkkpfad), [Lucidchart](https://chrome.google.com/webstore/detail/lucidchart-diagrams-deskt/djejicklhojeokkfmdelnempiecmdomj), [Mindmpr](https://chrome.google.com/webstore/detail/mindmapr/njkigggmlihigheckmmebgogbgdmllpo)
  - Run some android app
 
 Yes you can run android apps on chrome OS. More onto later. 
@@ -98,7 +98,7 @@ I was thrilled when  Google announced support for android apps in chrome OS back
 
 As you can see the maximize button is missing on the window manager and looks little blurry . So it's not a very  optimum experience. There was another problem. I can't access any downloaded episode outside the app.
 
-There are only 11 officially supported apps such as vine, evernote, podcast adict, Dulingo etc. But you can run quite a few android apps in chrome OS by turning apk into chrome extension. The result is mixed bag. I successfully installed and use Ranchrush 2 lite and World of Goo (Demo) games from Play Store. 
+There are only 11 officially supported apps such as vine, evernote, podcast adict, Dulingo etc. But you can run quite a few android apps in chrome OS by turning apk into chrome extension through [archon package manager](https://play.google.com/store/apps/details?id=me.bpear.archonpackager&hl=en) or [twerks](https://chrome.google.com/webstore/detail/twerk/jhdnjmjhmfihbfjdgmnappnoaehnhiaf). The result is mixed bag. I successfully installed and use Ranchrush 2 lite and World of Goo (Demo) games from Play Store. 
 
 ![Running unofficial android app](http://i.imgur.com/SYJjng4.jpg=s500 "ranchrush 2.jpg")
 
@@ -108,7 +108,7 @@ Skype works with text chat but crashed with audio. Adobe reader and WPS Office c
 
 ### _Online Mode_
 
-Chrome OS trully shines when you are online. It was built for this purpose. Open your device, log in and go to web. It is specially good for collaboration work like google docs, coding. You can use koding, shiftedit, nitrous.io for collaborative coding. It's also good for bloggers who do their blogging entirely on browser. Well I am using an offline markdown editor to write this post and push it later to my site. You can edit your photos online using [Pixlr.com](https://chrome.google.com/webstore/detail/pixlr-editor/icmaknaampgiegkcjlimdiidlhopknpk?utm_source=chrome-app-launcher-info-dialog) and Photoshop will also be available for chrome OS in near future through virtualization.  You can also use torrent client. Good enough for web developer and content writer.
+Chrome OS trully shines when you are online. It was built for this purpose. Open your device, log in and go to web. It is specially good for collaboration work like google docs, coding. You can use [koding](https://chrome.google.com/webstore/detail/koding/fgbjpbdfegnodokpoejnbhnblcojccal), [shiftedit](https://chrome.google.com/webstore/detail/shiftedit/lcgmndephhjcabhhjfcmncnhbmgbkpij), [nitrous.io](https://chrome.google.com/webstore/detail/nitrousio/efdcneeepllhjlbejkfnaolelbpdacai) for collaborative coding. It's also good for bloggers who do their blogging entirely on browser. Well I am using an offline markdown editor to write this post and push it later to my site. You can edit your photos online using [Pixlr.com](https://chrome.google.com/webstore/detail/pixlr-editor/icmaknaampgiegkcjlimdiidlhopknpk?utm_source=chrome-app-launcher-info-dialog) and Photoshop will also be available for chrome OS in near future through virtualization.  You can also use torrent client. Good enough for [web developer](https://chrome.google.com/webstore/detail/chrome-dev-editor-develop/pnoffddplpippgcfjdhbmhkofpnaalpg) (or you can use one of the cloud ides mentioned above and [content writer](https://chrome.google.com/webstore/detail/calmly-writer/adhdlhedoenicbbncfckobjedmboleig). You can also use [celtx online](https://www.celtx.com/index.html) for scriptwriting.
 
 But chrome OS is not for everyone. It also has it's pros and cons.
 
@@ -128,7 +128,7 @@ Here my list of pros and cons.
  -  Some people will find chrome OS limiting
  - No SMB/NFS support by default
  - If you don't have google cloud supported printer, then it's a hassle to print 
- -  No git client
+ -  No official git client. You can use git thorugh [tailor](https://chrome.google.com/webstore/detail/tailor/mfakmogheanjhlgjhpijkhdjegllgenf) app. But it is higly in previwe stat.
  - Lack of decent offline audio/video converter
  - Personally I don't like chrome's download manager
  -  Need  more decent offline capable app (My personal wish)
