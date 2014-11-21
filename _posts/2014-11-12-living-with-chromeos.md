@@ -84,7 +84,8 @@ After the initial setup and sync I tried to see if I could log in offline. Ha ha
  - Writing blog post like myself 
  - Play games
     - [Tank Rider](http://goo.gl/jFE8kv), [Save the Day](http://goo.gl/OrFmwX), [Cracking Sands Racing](http://goo.gl/tYXRCq), [Bastion](http://goo.gl/6ZEiFI) 
- - Drawing diagrams,flow chart or mind mapping. [Gliffy](https://chrome.google.com/webstore/detail/gliffy-diagrams/bhmicilclplefnflapjmnngmkkkkpfad), [Lucidchart](https://chrome.google.com/webstore/detail/lucidchart-diagrams-deskt/djejicklhojeokkfmdelnempiecmdomj), [Mindmpr](https://chrome.google.com/webstore/detail/mindmapr/njkigggmlihigheckmmebgogbgdmllpo)
+ - Drawing diagrams,flow chart or mind mapping. 
+    - [Gliffy](https://chrome.google.com/webstore/detail/gliffy-diagrams/bhmicilclplefnflapjmnngmkkkkpfad), [Lucidchart](https://chrome.google.com/webstore/detail/lucidchart-diagrams-deskt/djejicklhojeokkfmdelnempiecmdomj), [Mindmpr](https://chrome.google.com/webstore/detail/mindmapr/njkigggmlihigheckmmebgogbgdmllpo)
  - Run some android app
 
 Yes you can run android apps on chrome OS. More onto later. 
